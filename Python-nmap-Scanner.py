@@ -1,5 +1,5 @@
-#install pip and python in whatever operating system you are using.
-#Install Nmap on your Operating system
+#install pip and python in whatever operating system you are using  https://www.python.org/downloads/
+#Install Nmap on your Operating system  https://nmap.org/download.html
 #Install Python-nmap by pip install python-nmap
 #Then Add that to your PATH
 import nmap
