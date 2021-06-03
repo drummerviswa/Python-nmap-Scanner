@@ -1,3 +1,6 @@
+#install pip and python in whatever operating system you are using.
+#Install Python-nmap by pip install python-nmap
+#Then Add that to your PATH
 import nmap
 
 scanner = nmap.PortScanner()
